@@ -9,7 +9,7 @@ Instead of hard-coded text strings, theme template files use translation keys an
 The translation filter retrieves the appropriate translated string from the locale file for the active language.
 
 
-#How to create locale files
+# How to create locale files
 
 You can generate a locale file in a number of ways:
 
@@ -17,7 +17,7 @@ by clicking Add a new locale from the theme template editor
 by creating a new locale file manually.
 A new locale file is also produced when a new translation is created using the language editor.
 
-#Adding a new locale from the theme template editor
+# Adding a new locale from the theme template editor
 
 To add a new locale from the Edit HTML/CSS page:
  
@@ -27,7 +27,7 @@ To add a new locale from the Edit HTML/CSS page:
 4.) From the drop-down, choose an existing locale file as a starting point or create a new one from scratch.
 5.) Enter a name for the locale file (without the .json extension), then click Create locale.
 
-#Creating a new locale file manually
+# Creating a new locale file manually
 If you create a locale file manually (that's outside the theme editor), be sure to use the correct IETF language tag for the filename.
 
 #Where to save your locale files
