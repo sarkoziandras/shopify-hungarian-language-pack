@@ -22,10 +22,15 @@ A new locale file is also produced when a new translation is created using the l
 To add a new locale from the Edit HTML/CSS page:
  
 1.) From your Shopify admin, go to Online Store > Themes.
+
 2.) Find the theme you want to edit, and then click Actions > Edit code.
+
 3.) Scroll down the sidebar and click Locales, then click Add a new locale.
+
 4.) From the drop-down, choose an existing locale file as a starting point or create a new one from scratch.
+
 5.) Enter a name for the locale file (without the .json extension), then click Create locale.
+
 
 # Creating a new locale file manually
 If you create a locale file manually (that's outside the theme editor), be sure to use the correct IETF language tag for the filename.
