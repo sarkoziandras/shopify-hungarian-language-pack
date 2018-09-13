@@ -1,7 +1,7 @@
 # shopify-hungarian-language-pack
 Hungarian Language pack for Shopify
 
-#What's a locale file?
+# What's a locale file? 
 A locale file is a .json file that contains a set of translations for the text strings used in a theme template file. A separate locale file is used for every language that's available in the theme. Locale files are stored in the Locales section of the theme editor.
 
 Instead of hard-coded text strings, theme template files use translation keys and pass them to the translation filter (or t filter.)
